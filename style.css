@@ -21,8 +21,9 @@ body{
     min-height: calc(100vh - 80px);
   }
 .container {
-    max-width: 980px;
+    max-width: 1000px;
     margin: 0 auto;
+    padding: 0 10px;
 }
 .content__title {
     padding: 30px 0;
