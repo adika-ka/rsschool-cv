@@ -1,6 +1,6 @@
 # Kalinchenko Vadim
 ***
-<img src="https://github.com/adika-ka/rsschool-cv/blob/gh-pages/photo.jpg" alt="photo" width="300">
+<img src="https://raw.githubusercontent.com/adika-ka/rsschool-cv/gh-pages/photo.jpg" alt="photo" width="300">
 
 ***
 
