@@ -1,0 +1,105 @@
+body{
+    background-color: rgba(27, 175, 146, 0.158);
+    height: 100%;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    box-sizing: border-box;
+  }
+  a{
+      text-decoration: none;
+      color: rgb(27, 104, 114);
+  }
+  .wrapper {
+    overflow: hidden;
+    position: relative;
+    min-height: 100%;
+    }
+  .content {
+    min-height: calc(100vh - 80px);
+  }
+.container {
+    max-width: 980px;
+    margin: 0 auto;
+}
+.content__title {
+    padding: 30px 0;
+    border-bottom: 3px solid rgba(25, 175, 112, 0.39);
+    margin-bottom: 30px;
+}
+.title__text {
+}
+.content__photo {
+    padding: 0px 0 30px 0;
+    border-bottom: 3px solid rgba(25, 175, 112, 0.39);
+    margin-bottom: 30px;
+}
+.content__photo img{
+    width: 300px;
+}
+.contacts__subtitle {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+.subtitle__text {
+    font-size: 1.5rem;
+    border-bottom: 1px solid #c8d8d8;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+.content-subtitle__table {
+    padding: 0px 0 30px 0;
+    margin-bottom: 30px;
+    border-bottom: 3px solid rgba(25, 175, 112, 0.39);
+}
+table{
+    width: 60%;
+    text-align: center;
+}
+.content__about {
+    padding: 0px 0 30px 0;
+    margin-bottom: 30px;
+    border-bottom: 3px solid rgba(25, 175, 112, 0.39);
+}
+.about__text {
+    font-weight: normal;
+}
+.content__skills {
+    padding: 0px 0 30px 0;
+    border-bottom: 3px solid rgba(25, 175, 112, 0.39);
+    margin-bottom: 30px;
+}
+.skills__subtitle {
+}
+.skills__list {
+    padding-left: 20px;
+}
+.content__code {
+    border-bottom: 3px solid rgba(25, 175, 112, 0.39);
+    margin-bottom: 30px;
+}
+.code__subtitle {
+}
+.code__example {
+    background-color: rgb(228, 248, 241);
+}
+.content__work {
+    margin-bottom: 30px;
+}
+.footer {
+    background-color: #c8d8d8;
+}
+.footer__row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer__logo {
+    width: 80px;
+}
